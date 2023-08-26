@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#table-1,h2{
+	text-align:center;
+	padding:1px;
+	border-spacing:1px;
+	width:100vw;
+	border-collapse:collapse;
+}
+#t11{
+	text-align:left;
+	
+}
+#t13{
+	text-align:right;
+}
+#table-2 , td{
+	border:1px solid black;
+	border-collapse:collapse;
+	width:100vw;
+}
+#table-3 {
+	border:1px solid black;
+	border-collapse:collapse;
+	width:100vw;
+}
